@@ -1,0 +1,14 @@
+The Accountability component allows participants to know the status of a projects implementation and to follow its evolution.
+This feature allows administrators to present a summary of the achievements decided upon in assemblies, during participatory processes, or any other space.
+administrators create results they can then categorize and link to proposals, meetings, or investment project (for example, as part of a participatory budget.)
+
+Key feature include:
+Result creation, hierarchical structuring, program tracking, categorization and the impact on participatory democracy:
+
+
+Proposal
+The proposals component allows people to create, comment, like, and give their votes to proposals. its one of the main components of decidim, and has  a large number of configuration of setting. The is central to decidim's participatory processes, allowing participant to create proposal, engage with proposal, amendments and collaborative drafts and participatory text. 
+
+Meeting module.
+The meeting module facilitates the organization and management of gathering, both in-person and online. key factors include, meeting creation, types of meetings, registration management, agenda and materials and comment and feedback.
+
